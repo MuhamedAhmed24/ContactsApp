@@ -1,6 +1,6 @@
 # ContactsApp
 # Key packages
-
+  Demo video: https://youtu.be/jffcJjWx3AA
   - react-native-contacts (to handle permissions and get contacts info )
   - react-native-status-bar-height (handle statusbar height on different devices)
   - react-native-vector-icons (allow us to use Icons on components)
@@ -12,4 +12,4 @@
             - users : [userId,userName,passWord]
             - friends : [userName,name,mobile,email]
             
-    - sorry for the login ui screen, didn't find anytime to make it more pretty.
+    - sorry for login ui screen, didn't find anytime to make it more pretty.
